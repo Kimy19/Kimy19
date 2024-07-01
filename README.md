@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20Kimy's%20github&textBg=false&fontAlign=50&section=header&animation=fadeIn&fontSize=50&width=100)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:75BED0,100:A1E4F3&text=Welcome%20to%20Kimy's%20github&textBg=false&fontAlign=50&section=header&animation=fadeIn&fontSize=50&width=100&fontColor=FFFFFF)
 <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90d54c,30:e2fa03,75:00dcff,100:3bd1c7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
